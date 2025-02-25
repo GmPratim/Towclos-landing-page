@@ -19,7 +19,7 @@ const PopularProductCard = ({ imgURL, name, price }) => {
       </p>
       <div className="flex flex-col sm:flex-row gap-4 mt-4 justify-between w-full max-sm:w-full">
         <button className="bg-[#e2b727] hover:bg-[#b5801f] transition-colors duration-300 text-white py-3 px-4 rounded font-montserrat font-medium flex items-center gap-2 justify-center ">
-          <img src={cart} alt="cart-icon" width={24} height={24} /> Add to Cart
+          <img src={cart} alt="cart-icon" width={20} height={20} /> Add to Cart
         </button>
         <button className="bg-coral-red hover:bg-red-700 transition-colors duration-300 text-white py-3 px-4 rounded font-montserrat font-medium flex items-center justify-center gap-2  ">
           Buy Now

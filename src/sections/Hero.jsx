@@ -24,7 +24,7 @@ const Hero = () => {
           </span>
           <br />
           <span className="xl:bg-white xl:whitespace-nowrap relative z-10 pr-10">
-            <span className="text-coral-red inline-block mt-3">Towclos</span>{" "}
+            <span className="text-coral-red inline-block mt-3">Twoclos</span>{" "}
             Store
           </span>
         </h1>
